@@ -1,4 +1,0 @@
-aiogram
-Pillow
-pypdf
-python-dotenv
